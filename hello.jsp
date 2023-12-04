@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="fr" xml:lang="fr">
 <head>
 <title>Sample Application JSP Page</title>
 </head>
