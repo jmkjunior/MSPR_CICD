@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>
 <title>Sample Application JSP Page</title>
